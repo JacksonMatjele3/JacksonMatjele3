@@ -3,7 +3,7 @@
 
 ---
 
-🚀 I am an early-career **cybersecurity professional** and **software developer** recently finished my Penetration Tester Apprenticeship at the **Orange Cyberdefense**. I am passionate about understanding how digital assets are built and how they break. By combining my background in full-stack development with a deep focus on offensive methodologies, I aim to build proactive, enterprise-grade defense strategies that protect organizations and the communities they serve. 
+🚀 I am an early-career **cybersecurity professional** recently finished my Penetration Tester Apprenticeship at the **Orange Cyberdefense**. I am passionate about understanding how digital assets are built, how they break and how to protect them. By combining my background in full-stack development with a deep focus on offensive methodologies, I aim to build proactive, enterprise-grade defense strategies that protect organizations and the communities they serve. 
 
 _Strengths_: **Analytical Thinking, Vulnerability Research, bridging the gap between development and security, and Collaboration.**
 
