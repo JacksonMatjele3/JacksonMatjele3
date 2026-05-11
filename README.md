@@ -1,5 +1,5 @@
 <h2 align="center">Hello World, I'm Morebudi 👋</h2>
-<h3 align="center">Cybersecurity Apprentice | Application Security & Proactive Defense</h3>
+<h3 align="center">Offensive Security & Proactive Defense</h3>
 
 ---
 
