@@ -8,7 +8,7 @@
 _Strengths_: **Analytical Thinking, Vulnerability Research, bridging the gap between development and security, and Collaboration.**
 
 ### 🔍 What I'm Currently Focused On:
-- 🛡️ Becoming a **Cybersecurity Analyst** (Learning via Google Cybersecurity Cert & TryHackMe)
+- 🛡️ Becoming a **Cybersecurity Analyst** (Learning via TryHackMe)
 - 💻 Building fullstack apps using **JavaScript**, **Node.js**, **React**, and **C#**
 - 🧠 Strengthening my fundamentals in **networking**, **Linux**, and **cloud security**
 
