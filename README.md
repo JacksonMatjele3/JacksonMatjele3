@@ -46,7 +46,7 @@ _Strengths_: **Analytical Thinking, Vulnerability Research, bridging the gap bet
 
 ### 🧠 Ongoing Learning
 - 🎓 Google Cybersecurity Professional Certificate (Coursera)
-- 🔐 TryHackMe: SOC Analyst Tier 1
+- 🔐 TryHackMe: Pre Security, CyberSecurity 101, SOC Analyst Tier 1
 - 📘 "You Don't Know JS" (JavaScript mastery)
 - 📗 "The Road to React"
 
